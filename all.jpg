@@ -1,0 +1,53 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="mystyle.css" type="text/css">
+<title>OLYMPIED</title>
+</head>
+<body style="background-image:url(qq.jpg);">
+<div id="book" style="background-image:url(44.png);">
+<h1 id="wel" style="color:black"><cite>E-School</cite></h1>
+<h3 id="search">search:<input type="search" ><input type="button" value="submit" href="https://www.google.co.in/"></h3>
+<br><br<br><br><br></div>
+<hr>
+
+<li id="li"><a href="file:///C:/Users/sumit%20kumar/Desktop/transparent%20%20sub%20menus/olympied.html">OLYMPIED</a>
+				<ul id="hidden">
+								<li><a href="#">OLYMPIED</a></li>
+								<li><a href="#">AAKASH NOTES</a></li>
+								<li><a href="#">TARGET PMT NOTES</a></li>												
+								<li><a href="#">NARAYNA NOTES</a></li>
+				</ul>
+		</li>
+		<li id="li"><a href="file:///C:/Users/sumit%20kumar/Desktop/transparent%20%20sub%20menus/olympied.html">OLYMPIED<img src="arrow2.png" style="width:20px;height:20px;"></img></a>
+				<ul id="hidden">
+								<li><a href="#">OLYMPIED</a></li>
+								<li><a href="#">AAKASH NOTES</a></li>
+								<li><a href="#">TARGET PMT NOTES</a></li>												
+								<li><a href="#">NARAYNA NOTES</a></li>
+				</ul>
+		</li>
+		<li id="li"><a href="#">TUTORIALS<img src="arrow2.png" style="width:20px;height:20px;"></img></a></li>
+			
+	<h1 id="ha" style="margin-top:300px;">WELCOME TO E-LEARNING PLATFORM</h1>
+<h2 id="sss" style="color:red;">A free web support in education</h2>		
+			
+			
+<h1 id="ww" style="color:RED;padding-bottom:30px;background-image:url(dddd.jpg); width:800px;transform:translateY(+200%);">OLYMPIED(FUNDAMENTALS):</h1>
+<h2 style="margin-top:300px;margin-top:300px;color:brown;margin-left:200px;">OLYMPIED</h2><hr><br> <p style="color:red;margin-left:300px;margin-right:300px;margin-top:40px;">(from Ancient Greek: φυσική (ἐπιστήμη) phusikḗ (epistḗmē) "knowledge of nature", from φύσις phúsis "nature") is the natural science that involves the study of matter and its motion and behavior through space and time, along with related concepts such as energy and force. One of the most fundamental scientific disciplines, the main goal of physics is to understand how the universe behaves.
+
+Physics is one of the oldest academic disciplines, perhaps the oldest through its inclusion of astronomy.Over the last two millennia, physics was a part of natural philosophy along with chemistry, biology, and certain branches of mathematics, but during the scientific revolution in the 17th century, the natural sciences emerged as unique research programs in their own right.[b] Physics intersects with many interdisciplinary areas of research, such as biophysics and quantum chemistry, and the boundaries of physics are not rigidly defined. New ideas in physics often explain the fundamental mechanisms of other sciences[6] while opening new avenues of research in areas such as mathematics and philosophy.</p>
+
+
+<div id="animation">
+<ul>
+<li><i class="fa fa-book" aria-hidden="true"></i></li>
+<li><i class="fa fa-question" aria-hidden="true"></i></li>
+<li><i class="fa fa-cc" aria-hidden="true"></i></li>
+<li><i class="fa fa-comments" aria-hidden="true"></i></li>
+<li><i class="fa fa-cloud" aria-hidden="true"></i></li>
+<li><i class="fa fa-user-o" aria-hidden="true"></i></li>
+</ul>
+</div>
+
